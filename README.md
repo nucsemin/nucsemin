@@ -35,4 +35,4 @@
   
   
   
-<img src="https://encycolorpedia.ru/8b00ff-logo.svg" alt="альтернативный текст">
+<img src="https://drive.google.com/file/d/1Lxaz_oLH3g0PZaeQAIa3wCZf3Vf1O_GZ/view?usp=sharing" alt="альтернативный текст">
