@@ -36,4 +36,5 @@
   
   
   <hr>
+<h3 align="left" '>Моя собака</h3>
 <img src="https://i.ibb.co/JxP6Jbt/IMG-3194-2.jpg" alt="альтернативный текст" width="450" height="650"/>
