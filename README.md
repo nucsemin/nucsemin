@@ -2,7 +2,7 @@
 <h3 align="center">I'm Full-Stack Developev</h3>
 
 - 🔭 I’m Full-Stack JS Developer **sssf**
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Full+Stack+JS+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Full+Stack+JS+Developer)](https://git.io/typing-svg)**sssf**
 - 🌱  I like: **ffff**
 
 - 👯 I’m looking to collaborate on **fff**
