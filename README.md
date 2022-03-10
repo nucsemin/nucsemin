@@ -1,6 +1,6 @@
 <h1 align="center">👾 Hello World! 👾</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%8336BCF7&lines=Have+a+nice+day+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%8b00ff&lines=Have+a+nice+day+!)](https://git.io/typing-svg)
 
 <h3 align="left">Коротко обо мне:</h3>
 ▪ 👀 Интересуюсь web-разработкой, музыкой, кино
