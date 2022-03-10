@@ -9,7 +9,7 @@
  <br></br>
   📫 Как связаться: syominvictor@gmail.com 
 
-<hr height="2px" color="red">
+<hr>
 
 <h3 align="left">Контакты:</h3>
 <p align="left">
@@ -17,6 +17,7 @@
    <a href="https://wa.me/79218683650" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/whatsapp--v1.png" alt="whatsapp" width="50" height="50"/> </a>
     <a href="mailto:syominvictor@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/gmail-new.png" alt="gmail" width="50" height="50"/> </a>
 </p>
+ <hr>
 
 <h3 align="left">Мой стек:</h3>
 <p align="left"> 
@@ -34,5 +35,5 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
   
   
-  
+  <hr>
 <img src="https://i.ibb.co/gJvCCd7/IMG-6226.gif" alt="альтернативный текст" width="150" height="150"/>
