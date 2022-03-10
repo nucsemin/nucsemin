@@ -8,7 +8,7 @@
 ▪ 📫 Как связаться: syominvictor@gmail.com 
 
 
-<h3 align="left">Контакты:</h3>
+<h3 align="left" color="8b00ff">Контакты:</h3>
 <p align="left">
   вфыв
 </p>
