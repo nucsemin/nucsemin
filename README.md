@@ -35,4 +35,4 @@
   
   
   
-<img src="https://i.ibb.co/gJvCCd7/IMG-6226.gif" alt="альтернативный текст">
+<img src="https://i.ibb.co/gJvCCd7/IMG-6226.gif" alt="альтернативный текст"></img>
