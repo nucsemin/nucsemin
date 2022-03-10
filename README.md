@@ -1,9 +1,9 @@
-<h1 align="center">Hello World, I'm 👋 Victor</h1>
+<h1 align="center">👾 Hello World! 👾</h1>
 <h3 align="center">I'm Full-Stack Developev</h3>
 
-- 🔭 I’m currently working on **sssf**
-
-- 🌱 I’m currently learning **ffff**
+- 🔭 I’m Full-Stack JS Developer **sssf**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+- 🌱  I like: **ffff**
 
 - 👯 I’m looking to collaborate on **fff**
 
