@@ -3,8 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Have+a+nice+day+!)](https://git.io/typing-svg)
 
 <h3 align="left">Коротко обо мне</h3>
-▪  Интересуюсь web-разработкой, музыкой, кино **fff**
-▪ 📫 Как связаться: syominvictor@gmail.com **ff**
+▪  Интересуюсь web-разработкой, музыкой, кино
+
+▪ 📫 Как связаться: syominvictor@gmail.com 
 
 
 <h3 align="left">Connect with me:</h3>
