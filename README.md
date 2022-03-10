@@ -1,17 +1,11 @@
 <h1 align="center">👾 Hello World! 👾</h1>
-<h3>I'm Full-Stack Developev</h3>
 
-- 🔭 I’m Full-Stack JS Developer **sssf**
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Have+a+nice+day)](https://git.io/typing-svg)
-- 🌱  I like: **ffff**
-<h3 align="center">I'm Full-Stack Developev</h3>
-- 👯 I’m looking to collaborate on **fff**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Have+a+nice+day+!)](https://git.io/typing-svg)
 
-- 🤝 I’m looking for help with **ff**
+<h3 align="left">Коротко обо мне</h3>
+▪  Интересуюсь web-разработкой, музыкой, кино **fff**
+▪ 📫 Как связаться: syominvictor@gmail.com **ff**
 
-- 💬 Ask me about **fff**
-
-- ⚡ Fun fact **fffffff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
