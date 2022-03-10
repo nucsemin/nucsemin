@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%8b00ff&lines=Have+a+nice+day+!)](https://git.io/typing-svg)
 
-<h3 align="left">Коротко обо мне:</h3>
+<h3 align="left" style='color:red'>Коротко обо мне:</h3>
  👀 Интересуюсь web-разработкой, музыкой, кино
 <br></br>
  💜 Люблю кодить, вкусно есть, свою собаку
