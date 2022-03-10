@@ -10,7 +10,8 @@
  ▪ 📫 Как связаться: syominvictor@gmail.com 
 
 
-<h3 align="left" color="8b00ff">Контакты:</h3>
+
+<h3 align="left">Контакты:</h3>
 <p align="left">
   <a href="https://t.me/nucsemin" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/344/telegram-app.png" alt="telegram" width="50" height="50"/> </a>
    <a href="https://wa.me/79218683650" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/whatsapp--v1.png" alt="whatsapp" width="50" height="50"/> </a>
