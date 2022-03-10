@@ -36,4 +36,4 @@
   
   
   <hr>
-<img src="https://c.tenor.com/uj4Cnt7RVE0AAAAM/fatdog-dog.gif" alt="альтернативный текст" width="150" height="150"/>
+<img src="https://i.ibb.co/JxP6Jbt/IMG-3194-2.jpg" alt="альтернативный текст" width="150" height="150"/>
