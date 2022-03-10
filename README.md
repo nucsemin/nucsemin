@@ -10,8 +10,10 @@
 
 <h3 align="left" color="8b00ff">Контакты:</h3>
 <p align="left">
-  вфыв
+  <a href="https://t.me/nucsemin" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/344/telegram-app.png" alt="telegram" width="40" height="40"/> </a>
 </p>
+
+
 
 <img src="https://encycolorpedia.ru/8b00ff-logo.svg" alt="альтернативный текст">
 
