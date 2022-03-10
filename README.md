@@ -35,4 +35,4 @@
   
   
   
-<img src="https://i.ibb.co/gJvCCd7/IMG-6226.gif" alt="альтернативный текст" width="50" height="50">
+<img src="https://encycolorpedia.ru/8b00ff-logo.svg" alt="альтернативный текст" width="50" height="50">
